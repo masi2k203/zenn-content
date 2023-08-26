@@ -3,7 +3,7 @@ title: "型を意識したPythonのすすめ 第0回"
 emoji: "👀"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [python]
-published: false
+published: true
 ---
 # はじめに
 お仕事でPythonを書いて1年くらい経ちました。
